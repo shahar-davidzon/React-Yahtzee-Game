@@ -1,6 +1,6 @@
-# Yahtzee Game! 
+# React Yahtzee Game! 
 
-## Play yahtzee and get the highest score that you can. Don't know the rules? press on <i class="fas fa-question-circle"></i> to get all the info that you need! 
+## Play yahtzee and get the highest score that you can. Don't know the rules? press on :grey_question: to get all the info that you need! 
 
 ### Press restart to start a new game and try to break your own record!
 
